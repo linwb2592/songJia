@@ -1,0 +1,40 @@
+Package: helloworld
+Version: 4
+Depends: libc
+Source: package/helloworld
+Section: utils
+Architecture: ramips_24kec
+Installed-Size: 1212
+Filename: helloworld_4_ramips_24kec.ipk
+Size: 1824
+MD5Sum: 1d3cdf86b04ddbcef527b8dd24614b6f
+SHA256sum: 534256ee996d2f5f2dc1955267bb9c8d79095aae790313229dc2816485515946
+Description:  This package is my helloworld
+
+Package: nodogsplash
+Version: 0.9_beta9.9.8-2
+Depends: libc, libpthread, iptables-mod-ipopt
+Source: package/nodogsplash
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 47374
+Filename: nodogsplash_0.9_beta9.9.8-2_ramips_24kec.ipk
+Size: 48028
+MD5Sum: 4d7ec291c3415f25db5f27f08c5e0b7a
+SHA256sum: 4003d50118dfb3f122013c41f9c3c81ff47444328aecbc98f726c8d76250cce6
+Description:  Nodogsplash offers a simple way to open a free hotspot providing
+ restricted access to an internet connection.
+
+Package: sjRoute
+Version: 1.0.0
+Depends: libc, libpthread
+Source: package/sjRoute
+Section: utils
+Architecture: ramips_24kec
+Installed-Size: 9087
+Filename: sjRoute_1.0.0_ramips_24kec.ipk
+Size: 9730
+MD5Sum: 0d8bf8d078ef4fc85252f5a2537689bc
+SHA256sum: 2f0c8d170e35a63fc9128ebe59b96197a855e76ffc29c569172fbc0e4b9b067f
+Description:  This package is route control
+
